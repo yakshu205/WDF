@@ -1,0 +1,24 @@
+StudentHub-Portal/
+│
+├── CSS/
+│   └── script.css
+│
+├── JS/
+│   └── script.js
+│
+├── PAGES/
+│   ├── about.html
+│   ├── admin.html
+│   ├── contact.html
+│   ├── dashboard.html
+│   ├── edit.html
+│   ├── events.html
+│   ├── faq.html
+│   ├── feedback.html
+│   ├── home.html
+│   ├── login.html
+│   ├── profile.html
+│   └── register.html
+│
+├── README.md
+├── requirement.txt
