@@ -1,0 +1,42 @@
+# requirement.txt
+
+Project Requirements for StudentHub-Portal
+
+Pages Included:
+- index.html
+- PAGES/home.html
+- PAGES/about.html
+- PAGES/admin.html
+- PAGES/contact.html
+- PAGES/dashboard.html
+- PAGES/edit.html
+- PAGES/events.html
+- PAGES/faq.html
+- PAGES/feedback.html
+- PAGES/login.html
+- PAGES/profile.html
+- PAGES/register.html
+
+Core Requirements:
+- Static web application using HTML, CSS, and JavaScript
+- Responsive layout for desktop and mobile screens
+- Navigation across all pages via links or menu
+- Login and registration forms on `PAGES/login.html` and `PAGES/register.html`
+- User dashboard and profile pages for authenticated users
+- Admin interface on `PAGES/admin.html`
+- Contact page with message submission form
+- Events listing page on `PAGES/events.html`
+- FAQ, feedback, and about pages for user support and information
+- Edit page to allow profile or content updates
+
+Assets:
+- CSS files in `CSS/`
+- JavaScript files in `JS/`
+- HTML pages in root and `PAGES/`
+
+Dependencies:
+- No external Python packages detected
+- No build tools or package manager required for this static site
+
+Notes:
+- If any server-side functionality is added, update this file with backend requirements.
